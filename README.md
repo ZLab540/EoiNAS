@@ -1,4 +1,1 @@
-Source code for  "Exploiting Operation Importance for Differentiable Neural Architecture Search".
-
-
-Zhou Y, Xie X, Kung S Y. Exploiting operation importance for differentiable neural architecture search[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+This project is an implementation of ``Exploiting Operation Importance for Differentiable Neural Architecture Search'' in PyTorch, which is publicated on TNNLS 2022.
